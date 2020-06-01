@@ -15,10 +15,11 @@ pip install -r requirements.txt
 python pydowntube.py
 ```
 ### to android
-1. install termux
+1. install termux in play market.
 ```bash
 pkg install git python
 git clone https://github.com/KSNT2008ARTUR/pydowntube.git
 pip install -r requirements.txt
 python pydowntube.py
 ```
+
